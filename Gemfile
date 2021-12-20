@@ -3,7 +3,7 @@ source "https://rubygems.org"
 
 gemspec
 
-gem "activeresource", git: 'git://github.com/rails/activeresource'
+gem "activeresource", git: 'playwrightapp/activeresource'
 
 group :docs, optional: true do
   gem "jekyll"
